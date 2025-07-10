@@ -1,0 +1,13 @@
+{
+  "name": "steep-scanner",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "start": "vite preview"
+  },
+  "dependencies": {
+    "mongodb": "^5.7.0",
+    "rss-parser": "^3.13.0"
+  }
+}
